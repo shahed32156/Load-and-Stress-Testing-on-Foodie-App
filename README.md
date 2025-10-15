@@ -63,7 +63,7 @@ https://foodibd.com
 
     - Expected & Actual Results Info: 
 
-        - Expected Result: That means at a time 1000 users should access the launching page of foodi web within 3 sec of Ramp-up period.
+        - Expected Result: At a time 1000 users should access the launching page of foodi web within 3 sec of Ramp-up period.
         - Actual Result: At a time 953 users should access the launching page of foodi web within 3 sec of Ramp-up period but response time decreases and user can't load after 953 users or samples.  
 
 2. **Performance Test Results Report**
